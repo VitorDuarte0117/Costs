@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "name": "vv",
+      "budget": "1001",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Developer"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planning"
+    }
+  ]
+}
