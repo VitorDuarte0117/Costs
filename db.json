@@ -1,91 +1,48 @@
 {
   "projects": [
     {
-      "name": "vv",
-      "budget": "1001",
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "My Project",
-      "budget": "122222",
+      "name": "Example 1",
+      "budget": "111111",
       "category": {
         "id": "2",
         "name": "Developer"
       },
       "cost": 0,
       "services": [],
-      "id": 5
+      "id": 1
     },
     {
-      "name": "aaaaaggggg",
-      "budget": "212222",
+      "name": "Exp 2",
+      "budget": "22222",
       "category": {
         "id": "1",
         "name": "infra"
       },
       "cost": 0,
       "services": [],
-      "id": 6
+      "id": 2
     },
     {
-      "name": "Vitor",
-      "budget": "2222",
+      "name": "exp 3",
+      "budget": "33333",
       "category": {
-        "id": "1",
-        "name": "infra"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
-      "id": 7
+      "id": 3
     },
     {
-      "name": "vv",
-      "budget": "222",
+      "name": "Exp 4",
+      "budget": "4000",
       "category": {
-        "id": "1",
-        "name": "infra"
+        "id": "4",
+        "name": "Planning"
       },
       "cost": 0,
       "services": [],
-      "id": 8
-    },
-    {
-      "name": "Vitor",
-      "budget": "141414",
-      "category": {
-        "id": "1",
-        "name": "infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 9
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 10
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 11
+      "id": 4
     }
   ],
   "categories": [
