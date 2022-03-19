@@ -1,48 +1,15 @@
 {
   "projects": [
     {
-      "name": "Example 1",
-      "budget": "111111",
-      "category": {
-        "id": "2",
-        "name": "Developer"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "Exp 2",
-      "budget": "22222",
+      "name": "exp 1",
+      "budget": "1111",
       "category": {
         "id": "1",
         "name": "infra"
       },
       "cost": 0,
       "services": [],
-      "id": 2
-    },
-    {
-      "name": "exp 3",
-      "budget": "33333",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "Exp 4",
-      "budget": "4000",
-      "category": {
-        "id": "4",
-        "name": "Planning"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
+      "id": 1
     }
   ],
   "categories": [
